@@ -1,15 +1,15 @@
 ---
 toc: true
 layout: post
-description: Thoughts on the
+description: A minimal example of using markdown with fastpages.
 categories: [markdown]
-title: Why biggermatrix.com?
+title: An Example Markdown Post
 ---
-# Why I'm Starting a Blog
+# Example Markdown Post
 
-## Initial
+## Basic setup
 
-Here is an
+Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-filename.md`
 
@@ -51,7 +51,7 @@ And a numbered list:
 
 ## Code
 
-You can format text and code per usual
+You can format text and code per usual 
 
 General preformatted text:
 
@@ -100,3 +100,4 @@ key: value
 
 
 [^1]: This is the footnote.
+
