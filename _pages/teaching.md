@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BIO
-permalink: /bio/
+title: TEACHING
+permalink: /teaching/
 ---
 
-Placeholder for my BIO
+Link to courses
