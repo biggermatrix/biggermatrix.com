@@ -62,10 +62,10 @@
 
   
       ,"page8": {
-          "title": "BIO",
-          "content": "Placeholder for my BIO .",
-          "url": "https://www.biggermatrix.com/bio/",
-          "relUrl": "/bio/",
+          "title": "TEACHING",
+          "content": "Link to courses .",
+          "url": "https://www.biggermatrix.com/teaching/",
+          "relUrl": "/teaching/",
           "date": ""
       }
       
