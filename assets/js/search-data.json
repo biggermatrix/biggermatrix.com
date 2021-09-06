@@ -28,10 +28,21 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
-          "url": "https://www.biggermatrix.com/about/",
-          "relUrl": "/about/",
+          "title": "TEACHING",
+          "content": "Links to courses. .",
+          "url": "https://www.biggermatrix.com/teaching/",
+          "relUrl": "/teaching/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
+          "title": "BIO",
+          "content": "Placeholder for my BIO .",
+          "url": "https://www.biggermatrix.com/bio/",
+          "relUrl": "/bio/",
           "date": ""
       }
       
@@ -50,6 +61,14 @@
   
 
   
+      ,"page8": {
+          "title": "BIO",
+          "content": "Placeholder for my BIO .",
+          "url": "https://www.biggermatrix.com/bio/",
+          "relUrl": "/bio/",
+          "date": ""
+      }
+      
   
 
   
@@ -59,7 +78,10 @@
   
 
   
-      ,"page10": {
+  
+
+  
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://www.biggermatrix.com/robots.txt",
